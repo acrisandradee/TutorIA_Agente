@@ -2,7 +2,7 @@
 
 Aplicação desenvolvida com  Streamlit, LangChain e OpenRouter para gerar planos de estudos personalizados
 
-![Logo do TutorIA](https://github.com/acrisandradee/TutorIA_Agente/blob/main/imagem/picture.png)
+https://raw.githubusercontent.com/acrisandradee/TutorIA_Agente/main/imagem/picture.png
 
 
 ## 🚀 Funcionalidades
