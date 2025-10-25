@@ -32,8 +32,7 @@ Aplicação desenvolvida com  Streamlit, LangChain e OpenRouter para gerar plano
 
 1. Clone este repositório
    ```bash
-   git clone https://github.com/seu-usuario/mentor-virtual.git
-   cd mentor-virtual
+  [ git clone https://github.com/seu-usuario/mentor-virtual.git](https://github.com/acrisandradee/TutorIA_Agente.git)
 
 2. Crie e ative um ambiente virtual
    ```bash
@@ -69,9 +68,11 @@ streamlit run app.py
 simplificaCodeMentor/
 ├── .venv                Ambiente virtual Python 
 ├── app.py               Configuração da Interface Streamlit
-├── agent.py             Classe Agent com LangChain e integração LLM
+├── agent_tutorial.py    Classe Agent com LangChain e integração LLM
+├── busca.py             Ferramenta gerar resumo
+├── mapa_mental.py       Ferramenta gerar mapa mental
+├── plano_estudos.py.py  Ferramenta gerar plano de estudos
 ├── .env                 Chave da API do OpenRouter 
-├── .gitignore          Arquivos e pastas ignoradas no Git 
 ├── requirements.txt     Lista de dependências Python do projeto
 └── README.md            Documentação do projeto
 
